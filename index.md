@@ -1,4 +1,4 @@
-# LLVM JIT Enhancement Class Project
+# V8 Adaptive Inlining Class Project
 ## Ishan Bhargava and Ethan Chu
 
 We have finished our project and are excited to present the results. 
